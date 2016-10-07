@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "name": "cordova-remove-cookies",
+  "name": "com.bez4pieci.cookies",
   "cordova_name": "Cookies",
   "description": "Cordova Cookies Plugin",
   "license": "Apache 2.0",
